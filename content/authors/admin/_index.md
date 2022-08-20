@@ -65,5 +65,4 @@ email: ''
 highlight_name: true
 ---
 
-Rachel is a graduate student in economics at Emory University. Her research interest include health and labor economics and is expected to graduate in May 2026. In addtion to economics, Rachel enjoys exploring breweries and finding new hiking trails.
-
+Rachel is a graduate student in economics at Emory University. Her research interest include health and labor economics and is expected to graduate in May 2026. In addition to economics, Rachel enjoys exploring breweries and finding new hiking trails.
