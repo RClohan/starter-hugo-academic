@@ -20,10 +20,10 @@ feature:
     icon_pack: fas
     name: STATA
     icon: overleaf
-    icon_pack: fas
+    icon_pack: ai
     name: Overleaf
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Python
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
