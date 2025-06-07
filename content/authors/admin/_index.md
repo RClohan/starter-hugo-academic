@@ -6,7 +6,7 @@ title: Rachel Clohan
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Economics
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -47,16 +47,16 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/RClohan
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/rachel-clohan
+ # - icon: linkedin
+  #  icon_pack: fab
+  #  link: https://www.linkedin.com/in/rachel-clohan
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -65,4 +65,8 @@ email: ''
 highlight_name: true
 ---
 
-Rachel is a graduate student in economics at Emory University. Her research interest include health and labor economics and is expected to graduate in May 2026. In addition to economics, Rachel enjoys exploring breweries and finding new hiking trails.
+I am a PhD Candidate in Economics on the 2025-2026 job market!
+
+I am broadly interested in health and labor economics, and my current research agenda is centered around whether opioid legislation has been effective in targeting internalities and externalities of the opioid epidemic.
+
+My job market paper explores expansion in access to an opioid overdose reversal drug and whether it creates a moral hazard for opioid users.
